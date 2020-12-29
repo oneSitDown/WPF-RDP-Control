@@ -1,0 +1,17 @@
+G:\TestProject\wpfRDP\wpfRDPShare\bin\Debug\wpfRDPShare.exe.config
+G:\TestProject\wpfRDP\wpfRDPShare\bin\Debug\wpfRDPShare.exe
+G:\TestProject\wpfRDP\wpfRDPShare\bin\Debug\wpfRDPShare.pdb
+G:\TestProject\wpfRDP\wpfRDPShare\bin\Debug\AxInterop.RDPCOMAPILib.dll
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.csprojAssemblyReference.cache
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\MainWindow.g.cs
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\App.g.cs
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare_MarkupCompile.cache
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare_MarkupCompile.lref
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\MainWindow.baml
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.g.resources
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.Properties.Resources.resources
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.csproj.GenerateResource.cache
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.csproj.CoreCompileInputs.cache
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.csproj.CopyComplete
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.exe
+G:\TestProject\wpfRDP\wpfRDPShare\obj\Debug\wpfRDPShare.pdb

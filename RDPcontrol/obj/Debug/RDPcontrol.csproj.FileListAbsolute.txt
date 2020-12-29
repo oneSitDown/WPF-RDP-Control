@@ -1,0 +1,17 @@
+G:\TestProject\bin\Debug\RDPcontrol.dll
+G:\TestProject\bin\Debug\RDPcontrol.pdb
+G:\TestProject\RDPcontrol\obj\Debug\RemoteDesktop.RemoteDesktopControl.resources
+G:\TestProject\RDPcontrol\obj\Debug\RDPcontrol.csproj.GenerateResource.cache
+G:\TestProject\RDPcontrol\obj\Debug\RDPcontrol.csproj.CoreCompileInputs.cache
+G:\TestProject\RDPcontrol\obj\Debug\RDPcontrol.csproj.CopyComplete
+G:\TestProject\RDPcontrol\obj\Debug\RDPcontrol.dll
+G:\TestProject\RDPcontrol\obj\Debug\RDPcontrol.pdb
+G:\TestProject\wpfRDP\bin\Debug\RDPcontrol.dll
+G:\TestProject\wpfRDP\bin\Debug\RDPcontrol.pdb
+G:\TestProject\wpfRDP\RDPcontrol\obj\Debug\RDPcontrol.csprojAssemblyReference.cache
+G:\TestProject\wpfRDP\RDPcontrol\obj\Debug\RemoteDesktop.RemoteDesktopControl.resources
+G:\TestProject\wpfRDP\RDPcontrol\obj\Debug\RDPcontrol.csproj.GenerateResource.cache
+G:\TestProject\wpfRDP\RDPcontrol\obj\Debug\RDPcontrol.csproj.CoreCompileInputs.cache
+G:\TestProject\wpfRDP\RDPcontrol\obj\Debug\RDPcontrol.csproj.CopyComplete
+G:\TestProject\wpfRDP\RDPcontrol\obj\Debug\RDPcontrol.dll
+G:\TestProject\wpfRDP\RDPcontrol\obj\Debug\RDPcontrol.pdb
